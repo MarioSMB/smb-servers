@@ -1,2 +1,2 @@
-# servers
-Files for the SMB servers
+# SMB Server Files
+Configurations and various files for the SMB servers
