@@ -1,0 +1,5 @@
+// curl urls for SMB servers
+
+csprogs*	http://dl.xonotic.co/csprogs/
+
+*	http://dl.xonotic.co/
