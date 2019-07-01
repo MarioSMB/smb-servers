@@ -2,4 +2,4 @@
 
 csprogs*	http://dl.xonotic.co/csprogs/
 
-*	http://dl.xonotic.co/
+*	http://dl.xonotic.fps.gratis/
