@@ -1,6 +1,5 @@
 # SMB Server Files
 Configurations and various files for the SMB servers
-Also contains .ent file fixes where necessary
 
 
 Config legend:
